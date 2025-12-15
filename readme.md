@@ -1,8 +1,3 @@
-Here’s a **clean, easy-to-understand README** you can directly put in your GitHub repo.
-It explains **what you built, why you built it, and how each block works** in simple language.
-
----
-
 # 🔋 Raspberry Pi Zero 2 UPS (TP4056 + DW01A + TPS61236)
 
 ## 📌 Overview
