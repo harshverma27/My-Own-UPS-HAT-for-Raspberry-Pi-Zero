@@ -15,8 +15,8 @@ So instead of buying one, **I designed my own UPS PCB from scratch**.
 
 This design uses **commonly available and low-cost ICs** while still following **proper battery safety and power design practices**.
 
-![pcb-front](images/'pcb-front.png')
-![pcb-back](images/'pcb-back.png')
+![pcb-front](images/pcb-front.png)
+![pcb-back](images/pcb-back.png)
 
 
 ---
